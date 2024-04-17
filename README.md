@@ -60,4 +60,22 @@ Lien vers un autre fichier, [Vers test.md](test.md)
 Pour trouver la liste des emojis disponibles avec GitHub :  
 [Liste des emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
   
-C'est super fun Git & GitHub :rofl:
+C'est super fun Git & GitHub :smile:  
+  
+  
+# Listes  
+  
+## Liste simple  
+  
+* Element A  
+* Element B  
+* Element C  
+  
+# Liste ordonnée  
+  
+1. Choux  
+2. Tomates  
+3. Poire  
+
+
+
