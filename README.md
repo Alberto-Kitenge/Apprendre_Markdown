@@ -45,4 +45,6 @@ git commit -m "Message du commit"
   
 # Lien URL
   
-Lien pour aller sur google : [Google](https://www.google.fr)
+Lien pour aller sur google : [Google](https://www.google.fr)  
+  
+Lien vers un autre fichier, [Vers test.md](test.md).
