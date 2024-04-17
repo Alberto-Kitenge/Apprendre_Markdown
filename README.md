@@ -3,11 +3,13 @@
 NOTE :  
 Pour les retours à la ligne : 2 espaces à chaque fin de ligne  
   
+  
 # Apprendre les titres  
   
   # Gros Titre  
   ## Titre Moyen  
   ### Petit Titre  
+  
   
 # Styles de Texte  
 Texte simple  
@@ -28,4 +30,16 @@ W indice 2 s'écrira : W<sub>2</sub>
 > Nous avons ici une citation simple (sur une ligne)  
   
 Nous avons imbriqué `Une citation` ici  
+  
+  
+# Code dans MarDown
+
+Pour faire un commit, nous avons :  
+  
+```
+git status
+git add -A
+git commit -m "Message du commit"
+```  
+  
 
