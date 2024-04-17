@@ -12,7 +12,7 @@ Pour les retours à la ligne : 2 espaces à chaque fin de ligne
 # Styles de Texte  
 Texte simple  
   
-** Ceci est un texte en gras **  
+**Ceci est un texte en gras**  
 Nous avons aussi __un texte__ qui est à la fois en gras et simple  
   
 Je like *Git et Github*  
