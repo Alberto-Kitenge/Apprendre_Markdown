@@ -71,11 +71,16 @@ C'est super fun Git & GitHub :smile:
 * Element B  
 * Element C  
   
-# Liste ordonnée  
+## Liste ordonnée  
   
 1. Choux  
 2. Tomates  
 3. Poire  
-
-
-
+  
+  
+## Liste imbriquée  
+  
+* Element 1
+    * Element 1.A
+        * Element 1.A.1
+        * Element 1.A.2
