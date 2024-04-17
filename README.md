@@ -52,4 +52,12 @@ Lien vers un autre fichier, [Vers test.md](test.md)
   
 # Ajouter une image
   
-![Image](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wppK?ver=eac5)
+![Image](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wppK?ver=eac5)  
+  
+  
+# AJouter un emoji  
+  
+Pour trouver la liste des emojis disponibles avec GitHub :  
+[Liste des emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+  
+C'est super fun Git & GitHub :rofl:
