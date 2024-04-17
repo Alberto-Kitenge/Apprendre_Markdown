@@ -87,8 +87,8 @@ C'est super fun Git & GitHub :smile:
   
   
 # TO DO
-* [] Thomson
+* [ ] Thomson
 * [x] Fumbwa
-* [] Makemba
+* [ ] Makemba
 
 
