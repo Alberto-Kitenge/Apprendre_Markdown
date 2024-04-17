@@ -52,4 +52,4 @@ Lien vers un autre fichier, [Vers test.md](test.md)
   
 # Ajouter une image
   
-![Creative Logo](https://www.bing.com/images/search?view=detailV2&ccid=nBEa3iKf&id=9C91126ED645102D66A2A041CAEBFE13A6410827&thid=OIP.nBEa3iKfxNIOeZFdPRKLzAHaGL&mediaurl=https%3a%2f%2fblog.karachicorner.com%2fwp-content%2fuploads%2f2019%2f02%2ffresh_creative_logo_deesign.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9c111ade229fc4d20e79915d3d128bcc%3frik%3dJwhBphP%252b68pBoA%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d800%26srw%3d960&exph=500&expw=600&q=creative+logo+&simid=608019859209015277&FORM=IRPRST&ck=75ED3929F64B1DA5BE01E7F593BD8DDC&selectedIndex=0&itb=0)
+![Image](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wppK?ver=eac5)
